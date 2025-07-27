@@ -2,3 +2,5 @@
 /content/big.txt
 answers/temporary/*
 !answers/temporary/.keep
+/content/result-async.txt
+/content/result-sync.txt
